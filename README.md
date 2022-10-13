@@ -1,2 +1,2 @@
 # SQL
-www.patika.dev üzerinden aldığım SQL eğitimi kapsamındaki ilk ödevim
+www.patika.dev üzerinden aldığım SQL eğitimi kapsamındaki ödevlerim
